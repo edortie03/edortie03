@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a first-year ISM student at Ardhi University w
 
 ## 💻 Skills
 
-- **Languages:** Python, Java, JavaScript, PHP  
-- **Frameworks:** Django, Spring Boot, Bootstrap  
+- **Languages:** Python, Java, JavaScript 
+- **Frameworks:** Django, Bootstrap  
 - **Tools:** Git, GitHub, SQLite3  
 
 ---
