@@ -1,12 +1,12 @@
 # Hi there, I'm Edward Denis 👋
 
-Welcome to my GitHub profile! I'm a first-year ISM student at Ardhi University with a passion for programming, projects, and learning new technologies.  
+Welcome to my GitHub profile! I'm a second-year ISM student at Ardhi University with a passion for programming, projects, and learning new technologies.  
 
 ---
 - 🔭 I’m currently working on:
-   Self simple projects
+   Self projects
 
-- 🌱 I’m currently learning:
+- 🌱 I’m currently learning and working on:
    Django framework
   
 - 👯 I’m looking to collaborate on several projects for both individuals and teams
