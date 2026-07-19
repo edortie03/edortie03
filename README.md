@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I'm a second-year ISM student at Ardhi University 
 ## 💻 Skills
 
 - **Languages:** Python, Java, JavaScript 
-- **Frameworks:** Django, Bootstrap  
-- **Tools:** Git, GitHub, SQLite3  
+- **Frameworks:** Django, Bootstrap
+- **Tools:** Git, GitHub, PostgreSQL, MySQL  
 
 ---
 
 ## 📂 Projects
-- [Edortify Website](https://github.com/edortie03/Ecommerce)  
+- [Edortify Website](https://github.com/edortie03)  
 
 ---
 
@@ -43,5 +43,4 @@ I love combining technology with creativity to build useful projects and improve
 ---
 
 *“Learning never exhausts the mind.” – Leonardo da Vinci*
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edortie03&show_icons=true&locale=en" alt="edortie03" /></p>
 
