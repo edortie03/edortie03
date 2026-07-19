@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a second-year ISM student at Ardhi University 
 ---
 
 ## 📂 Projects
-- [Edortify Website](https://github.com/edortie03)  
+- [Edward](https://github.com/edortie03)  
 
 ---
 
